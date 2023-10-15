@@ -1,0 +1,45 @@
+# Este es un comentario
+# La estructura debe ser en pares de puerto: firma, separados por comas
+# por ejemplo:
+135: Blaster Worm
+137: NetBIOS
+139: NetBIOS
+445: Blaster Worm
+593: unknown
+1024-1030: unknown
+1080: Drop MyDoom
+1214: unknown
+1363: ndm requester
+1364: ndm server
+1368: screen cast
+1373: hromgrafx
+1377: cichlid
+2745: Bagle Virus
+2283: Dumaru.Y
+2535: Beagle
+2745: Beagle.C-K
+3127-3128: MyDoom
+3410: Backdoor OptixPro
+4444: Worm
+5554: Drop Sasser
+8866: Drop Beagle.B
+9898: Drop Dabber.A-B
+10000: Drop Dumaru.Y
+10080: Drop MyDoom.B
+12345: Drop NetBus
+1433: SQL Slammer
+17300: Drop Kuang2
+27374: Drop SubSeven
+666: Trojan
+6660-6669: IRC Bot
+6666-6669: IRC Bot
+7000: IRC Bot
+12667: Trinoo
+27665: Trinoo
+31335: Trinoo
+27444: Trinoo
+34555: Trinoo
+35555: Trinoo
+80: HTTP (usado por algunos malware)
+8080: HTTP (usado por algunos malware)
+69: TFTP (usado por algunos malware)
